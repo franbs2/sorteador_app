@@ -27,7 +27,7 @@ Este é um aplicativo de sorteio de números desenvolvido em Flutter. O projeto 
 
 ## Screenshots
 
-<img src="/assets/app_sorteador.png">
+<img src="/assets/app_sorteador.png" style="width: 20%; height: 10%;" alt="App sorteador">
 
 ## Contato
 Para mais informações, entre em contato:
