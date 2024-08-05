@@ -1,16 +1,37 @@
-# sorteador_app
+# Sorteador de Números
 
-A new Flutter project.
+Este é um aplicativo de sorteio de números desenvolvido em Flutter. O projeto foi apresentado como parte de uma demonstração de usabilidade do Flutter na construção de aplicativos na Universidade Federal do Oeste do Pará (UFOPA).
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Sorteio de Números:** Permite ao usuário sortear um número aleatório.
+- **Interface Intuitiva:** Interface simples e fácil de usar, com um botão para iniciar o sorteio.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter:** Framework de código aberto para a criação de aplicativos móveis, web e desktop.
+- **Dart:** Linguagem de programação usada no desenvolvimento com Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação
+
+1. Clone este repositório:
+   `git clone https://github.com/franbs2/sorteador_app`
+2. Navegue até o diretório do projeto:
+   `cd sorteador-numeros`
+3. Execute o aplicativo:
+  `flutter run`
+
+## Como usar
+1. Abra o aplicativo.
+2. Clique no botão "Sortear" para gerar um número aleatório.
+
+## Screenshots
+
+<img src="/assets/app_sorteador.png">
+
+## Contato
+Para mais informações, entre em contato:
+
+Nome: [Franciéllen Araújo]
+Email: [franciellensousaaraujo@gmail.com]
+LinkedIn: linkedin.com/in/franciellensaraujo
